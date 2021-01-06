@@ -1,7 +1,7 @@
 # Maximum Border of String Calculator
 
 ## Program in Action
-![Program Running](https://github.com/ShrillP/Zombie-Runner/blob/master/Program%20Pictures/Main.png)
+![Program Running](https://github.com/ShrillP/Max-Border-of-String-Calculator/blob/main/Example.png)
 
 ## Usage
 
