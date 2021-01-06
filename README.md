@@ -1,4 +1,5 @@
 # Maximum Border of String Calculator
+This is a program that calculates the maximal border of an input string using a 64-bit NASM assembler.
 
 ## Usage
 
