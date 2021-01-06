@@ -1,3 +1,3 @@
 # Maximum Border of String Calculator
 
-###Usage
+## Usage
