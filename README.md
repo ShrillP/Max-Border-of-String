@@ -15,7 +15,7 @@ This is a program that calculates the maximal border of an input string using a 
   - `ababbca` has a border a
   - `abab` has a border ab
   - `ababa` has a border a and aba
-  - `abcdabcdab`, the maximal border for abcdabcdab is abcdab, and so `border[0] = 6`. The algorithm continues to do this process but for substring `bcdabcdab`, meaning the maximal border is bcdab, making `border[1] = 5`. This will continue until the last character of the input string.
+  - `abcdabcdab`, the maximal border for abcdabcdab is abcdab, and so `border[0] = 6`. The algorithm continues to do this process but for substring `bcdabcdab`, meaning the maximal border is bcdab, making `border[1] = 5`. This will continue until the last character of the input string. The end result of the algorithm will be `border = [6, 5, 4, 3, 2, 1, 0, 0, 0, 0]`. This array will be represented by a bar chart shown in the above image.
 
 ## Drawbacks
 This program can only be used with type strings that are of length 12 or shorter.
