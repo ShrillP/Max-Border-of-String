@@ -1,9 +1,9 @@
 # Maximum Border of String Calculator
 
+## Usage
+
 ## Program in Action
 ![Program Running](https://github.com/ShrillP/Max-Border-of-String-Calculator/blob/main/Example.png)
-
-## Usage
 
 ## Methodology
 
