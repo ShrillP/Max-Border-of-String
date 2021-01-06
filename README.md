@@ -1,5 +1,8 @@
 # Maximum Border of String Calculator
 
+## Program in Action
+![Program Running](https://github.com/ShrillP/Zombie-Runner/blob/master/Program%20Pictures/Main.png)
+
 ## Usage
 
 ## Methodology
