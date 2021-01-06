@@ -1,1 +1,1 @@
-# Max-Border-of-String
+# Maximum Border of String Calculator
