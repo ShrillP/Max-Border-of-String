@@ -2,6 +2,12 @@
 This is a program that calculates the maximal border of an input string using a 64-bit NASM assembler.
 
 ## Usage
+- Make sure you have NASM installed on your computer
+- Clone this repository onto your local computer
+- Open a terminal window at the folder of the cloned repository 
+- Run the command: `make fproj`
+  - This creates an executable file called `fproj`
+- Then type `fproj [string]` where [string] is the string you want the algorithm to run on
 
 ## Program in Action
 ![Program Running](https://github.com/ShrillP/Max-Border-of-String-Calculator/blob/main/Example.png)
